@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi I'm Myjah 👋
+ I'm a Boston based software developer building full-stack web applications.
+ I enjoy turning ideas into practical, interactive applications and learning how things work under the hood. I'm currently strengthening my backend development skills while building projects that combine thoughtful user experiences with solid application logic.
 
-<!--
-**Msnape-sys/Msnape-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Technologies
+JavaScript, React,  HTML, CSS, Node.js
 
-Here are some ideas to get you started:
+## Connect
+[Portfolio](portfolio-myjah-snape.netlify.app)
+[LinkedIn](www.linkedin.com/in/myjah-snape-57480b32)
+[X](https://x.com/myjahBuilds)
+[Bluesky](https://bsky.app/profile/m-yvons.bsky.social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

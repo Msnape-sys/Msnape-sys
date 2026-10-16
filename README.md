@@ -6,9 +6,12 @@
 JavaScript, React,  HTML, CSS, Node.js
 
 ## Connect
-[Portfolio](portfolio-myjah-snape.netlify.app)
-[LinkedIn](www.linkedin.com/in/myjah-snape-57480b32)
+[Portfolio](https://portfolio-myjah-snape.netlify.app)
+
+[LinkedIn](https://www.linkedin.com/in/myjah-snape-57480b32)
+
 [X](https://x.com/myjahBuilds)
+
 [Bluesky](https://bsky.app/profile/m-yvons.bsky.social)
 
 
